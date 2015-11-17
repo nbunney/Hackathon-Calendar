@@ -38,6 +38,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2016)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
+| [Valley Hackathon](http://www.ValleyHackathon.com/) | Modesto, CA | 1.15 - 1.16 |
 | [Hack The 6ix](https://www.hackthe6ix.com/#6ix) | Toronto, Canada | 1.15 - 1.17 |
 | [Knight Hacks](http://knighthacks.org/) | Orlando, FL | 1.15 - 1.17 |
 | [EagleHacks](http://www.eaglehacks.com/) | Allen, TX | 1.16 |
